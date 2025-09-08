@@ -11,33 +11,35 @@
 
 ## About Me
 
-I am a **Computer Engineering graduate** with specialized expertise in cybersecurity and network infrastructure. My professional certifications include **Cisco CCNA** and **CompTIA Security+**, reflecting my commitment to maintaining current industry standards and best practices.
+I am a **Computer Engineering graduate** focusing on cybersecurity and network security implementations.
 
-### Professional Background
-
-- **Education:** Bachelor's Degree in Computer Engineering
-- **Certifications:** 
-  - Cisco Certified Network Associate (CCNA)
-  - CompTIA Security+ 
-### Skills
+### Technical Skills
 
 ```yaml
-Technical Domains:
-  - Security Operations Center (SOC) Implementation
-  - Network Infrastructure Design and Management  
-  - Security Information and Event Management (SIEM)
-  - Threat Intelligence and Analysis
-  - Incident Response and Forensics
-  - Security Orchestration, Automation and Response (SOAR)
+Security Operations:
+  - SOC Implementation and Automation
+  - SIEM Configuration and Management
+  - Threat Intelligence Integration
+  - Incident Response Workflows
 
-Technologies:
-  - Network Security: Cisco, Suricata, pfSense
-  - SIEM Platforms: Wazuh, Splunk, ELK Stack
-  - Threat Intelligence: MISP, OpenCTI
+Network & Infrastructure:
+  - Network Design and Configuration
+  - Intrusion Detection Systems
+  - Security Orchestration and Response
+  - Container-based Deployments
+
+Tools & Platforms:
+  - SIEM: Wazuh, ELK Stack
+  - Network Security: Suricata, Cisco
+  - Threat Intelligence: MISP
   - Incident Response: TheHive, Cortex
-  - Automation: Shuffle, Ansible, Python
-  - Containerization: Docker, Kubernetes
+  - Automation: Shuffle, Python
+  - Infrastructure: Docker, Linux
 ```
+
+
+---
+
 
 ### Current Focus
 
