@@ -67,7 +67,7 @@ My repositories demonstrate practical implementations of:
 
 
 ### Connect With Me
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:shahadsalsharif@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahadsalsharif@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahad-alsharif-55131336a)
 
 I welcome collaboration opportunities, technical discussions, and knowledge sharing within the cybersecurity community. Feel free to explore my repositories and reach out for professional networking or project collaboration.
