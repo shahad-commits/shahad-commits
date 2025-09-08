@@ -17,9 +17,8 @@ I am a **Computer Engineering graduate** with specialized expertise in cybersecu
 
 - **Education:** Bachelor's Degree in Computer Engineering
 - **Certifications:** 
-  - Cisco Certified Network Associate (CCNA) [![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco)](https://github.com)
-  - CompTIA Security+ [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia)](https://github.com)
-    
+  - Cisco Certified Network Associate (CCNA)
+  - CompTIA Security+ 
 ### Skills
 
 ```yaml
